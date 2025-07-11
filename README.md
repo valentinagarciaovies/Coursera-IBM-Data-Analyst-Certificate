@@ -1,2 +1,2 @@
-# coursera-certificate-activities
-Coursera IBM Data Analyst certificate activites, python, SQL, visualizations
+# IBM-Data-Analyst-Certificate
+Projects and labs completed during the Coursera IBM Data Analyst Certificate
